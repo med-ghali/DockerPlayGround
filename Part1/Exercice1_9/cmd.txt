@@ -1,0 +1,1 @@
+docker run -v "C:\Users\Lenovo\Desktop\DockerPlayGround\Part1\Exercice1_9\log.txt:/usr/src/app/text.log" devopsdockeruh/simple-web-service
